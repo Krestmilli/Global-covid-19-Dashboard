@@ -1,5 +1,3 @@
-Great! Here’s your updated README.md content with your LinkedIn profile link included in a Contact section:
-
 # COVID-19 Global Dashboard (Tableau)
 
 This project presents a comprehensive Tableau dashboard analyzing global COVID-19 cases, deaths, and infection rates across continents and selected countries.
