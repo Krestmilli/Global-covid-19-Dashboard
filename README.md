@@ -49,4 +49,3 @@ The dashboard provides an interactive view of:
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ifeanyieric)
 
-Let me know if you’d also like to add a section for the dataset source or project motivation.
